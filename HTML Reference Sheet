@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <body>
+      <head>
+<title>HTML Reference Sheet</title>
+</head>
+     <h1>HTML Reference Sheet</h1>
+     <h2>HTML</h2>
+     <p> The HTML tag is important for html documents because its what tells the browser  that its a html document. An example of the syntax would be &lthtml>. An example would look like &lthtml></p>
+      <h2>Header Element</h2>
+      <p>A header element is what introduces heading elements or articles. An exampe of the syntax would be &ltHeader&gt. An example would be &ltHeader&gt This is a header example &/ltHeader&gt. A visual would be <header>This is a header example</header></p>
+     <h2>Title</h2>
+     <p>The title element is usually what is seen when you first search a website. Its something every website needs because its what the websites named on the web. If you search for a website, the title will appear. An example of the syntax is &lt title &gt. An example of what it would look like is &lt title &gt This is an example of a title element.&lt/title&gt</p>
+     <h2>Body</h2>
+     <p>The body element is what contains both the paragraph and header elements. It's what seperates paragrahs and headers from other tags. An exampe of the syntax is &ltBody&gt. An example of this is &ltBody&gt This is an example of the body syntax &lt/Body&gt.A display o this would be this entire page.</p>
+     <h2>Headings</h2>
+     <p>A heading element is what's used to introduce a new topic. It will usually bold the text and make the font size largeer. An example of the syntax is &lth1&gt. An example would look like &lth&gt This is a header &lt/h&gt. A display of this would look like <h2> This is a heading example</h2></p>
+     <h2>Paragraph</h2>
+      <p>A paragraph element is the body of your website. Whatevers in the paragraph element is usually where the information of your website is stored. A paragraphs Syntax is &ltp&gt. An example of the paragraph element would be &ltp&gtHello this is my paragraph element&lt/p&gt</p>
+      <p> If the paragraph above isnt enough of an example, this is also another example of using the paragraph element.</p>
+     <h2>Breaks</h2>
+     <p> A break element just inserts an empty line. An example of the syntax would be &ltbr>An image would be <br></p>
+     <h2>Lines</h2>
+     <p>A line element is used to seperate content or define change. An example of the syntax would be &lthr>. An image would be <hr></p>
+     <h2>Comments</h2>
+     <p>A comment element is used to make notifications in your html for yourself. An example of the syntax would be &lt!--  --></p>
+     <h2>Links</h2>
+     <p>A link element adds links to your website. An example of a link syntax is &lt a href=>. An example of this owuld be &lt a href="www.google.com"Google &lta/>. An image would be <a href="www.google.com">Google<a/></p>
+     <h2>Image</h2>
+     <p>An image element adds images to your website. An example of a image syntax is &ltimg src=>An example would be &ltimg src=google.com>An image would be <img src="https://www.google.it/images/branding/googleg/1x/googleg_standard_color_128dp.png" alt=Google> </p>
+     <h2>Lists</h2>
+     <p> A lists element is used to list items. An example of the syntax would be &ltul>.An example would look like &ltul> &ltli> list &/lt> &lt ul></p> An image would be <ul> <li>list</li><li>list#2</li></ul>
+     <h2>Tables</h2>
+     <p>A table element is used to make a table in your website. An example of the syntax would be &lt table>. An example would look like &lt table>&lt tr> &lt /tr> &lt th> &lt /th>. An image would be <table><tr>hi</tr><tr>hi again</tr><th>derp</th><th>derp again</th></table></p>
+     <h2>Div</h2>
+     <p>A div tag defines a section in HTML. A syntax example would be &lt div> An example would be &lt div style=...> An image would be <div style="color:#0000FF">
+  <h3>This is a div</h3>
+  <p>This is also a div.</p>
+</div></p>
+     
+    </body>
