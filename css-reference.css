@@ -1,9 +1,11 @@
 body{
-  font-family: "Roboto";
+  font-family: "Courier New",Georgia,Serif;
 }
 
 .Table,th,td {
   border: 2px solid blue;
+  color:blue;
+  background-color:lightblue;
 }
 
 h1 {
