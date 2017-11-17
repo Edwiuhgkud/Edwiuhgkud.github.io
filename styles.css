@@ -1,0 +1,41 @@
+.content {
+  border: solid 10px black;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Vainglory_Halcyon_Fold_map.tif/lossy-page1-1000px-Vainglory_Halcyon_Fold_map.tif.jpg")
+}    
+
+
+
+.content p {
+  font-family:"Verdana", sans-serif;
+  color:lightblue;
+}
+
+img {
+  width:100%;
+}
+.video {
+  float:left;
+}
+
+.lists {
+  float:right;
+  padding-right:120px;
+}
+
+.Table,th,td {
+  border: 2px solid blue;
+  color:blue;
+  background-color:#e6eeff;
+  font-size: 20px;
+  text-align:center;
+}
+
+.list {
+  border:solid blue;
+  font-size: 20px;
+}
+.a {
+  color:grey;
+  background-color:lightblue;
+}
+}
