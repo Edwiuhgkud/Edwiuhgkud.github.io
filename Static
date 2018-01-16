@@ -1,6 +1,8 @@
     <html>
+    <body>
     <p> Static Picture</p>
     <div>
       <img src='https://edwiuhgkud.github.io/images/sunset2-jpg-maxq%204000.jpg'>
     </div>
+    </body>
     </html>
